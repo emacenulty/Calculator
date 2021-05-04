@@ -1,0 +1,33 @@
+table.calc {
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+th,td {
+    border: 1px solid black;
+  }
+tr.fstrow{
+border: 1px solid black;
+width: 180px; 
+}
+.sndrow{
+    border: 1px solid black;
+    width: 180px; 
+    }
+tr.trdrow{
+    border: 1px solid black;
+    width: 180px; 
+    }
+
+    tr.frthrow{
+    border: 1px solid black;
+    width: 180px; 
+    }
+#equals{ padding-right: 49.5px;
+    width: 25px;
+
+}
+
+#result{
+    border: 1px solid black;
+    padding-right: 49.5px;
+    width: 49.5px;}
